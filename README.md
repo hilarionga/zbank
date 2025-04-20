@@ -2,7 +2,7 @@
 
 Welcomo to **zbank** testing in forms of website bank
 
-## testing: 
+## Testings: 
 -click
 
 -type
